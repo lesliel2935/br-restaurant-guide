@@ -3,7 +3,7 @@
 ---
 Select a specific Asian food:
 ## [Chinese](chinese.md)
-## [Japanese](apenese.md)
+## [Japanese](japenese.md)
 ## [Thai](thai.md)
 ---
 [Start Over](../home.md)
